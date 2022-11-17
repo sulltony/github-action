@@ -11,7 +11,7 @@ explore dependencies and licenses, and export the output in auditing formats.
 To use this action, you need a Rezilion license.
 
 ## Installation guide
-1. Install the Rezilion Extension from the following link
+1. Install the Rezilion Extension from the following link: https://github.com/marketplace/actions/rezilion
 2. Add a Rezilion environment variable:
 "REZILION_LICENSE_KEY"
 3. Edit your pipeline yml:
